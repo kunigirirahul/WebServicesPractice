@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Car xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///E:/WEBSERVICES%20PRA/car.xsd">
+	<Type/>
+	<SerialNumber>5631365</SerialNumber>
+	<ModelNumber>13131</ModelNumber>
+	<QTY>43510313</QTY>
+	<Warranty>extended</Warranty>
+	<Amount>457</Amount>
+	
+</Car>
+
